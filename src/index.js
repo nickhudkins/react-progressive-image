@@ -114,6 +114,8 @@ export default class ProgressiveImage extends Component {
 const fill = {
   position: 'absolute',
   width: '100%',
+  top: 0,
+  left: 0,
   transform: 'scale(1) translateZ(0)'
 }
 
